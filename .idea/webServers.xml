@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="32347db8-ce4a-4f0c-b62c-d4afbe6bdb38" name="https://github.com/PeterMueckstein/THM_OOP.git" url="https://github.com/PeterMueckstein/THM_OOP.git">
+        <fileTransfer host="git@github.com:PeterMueckstein/THM_OOP.git" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
