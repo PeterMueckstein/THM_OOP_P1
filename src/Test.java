@@ -1,4 +1,5 @@
 import java.lang.reflect.Array;
+import static  java.lang.System.out;
 import java.util.*;
 
 public class Test {
@@ -11,7 +12,7 @@ public class Test {
         Scanner s = new Scanner(System.in);
         Random rnd = new Random();
         Set<Integer> lotto = new HashSet<Integer>();
-        Set<Integer> numbers = new HashSet<>();
+        Set<Integer> numbers = new HashSet<Integer>();
         for (int i = 0;i < 6;i++){
             System.out.print("Bitte gib eine Lotto Zahhl ein");
             numbers.add(s.nextInt());
@@ -25,13 +26,12 @@ public class Test {
             Object[] numberarray = numbers.toArray();
             Arrays.sort(numberarray);
             Arrays.sort(lottoarray);
-            System.out.println(Arrays.toString(lottoarray));
-
-
-            System.out.println(Arrays.toString(numberarray) + i);
+            //System.out.println(Arrays.toString(lottoarray));
+            //System.out.println(Arrays.toString(numberarray) + i);
             i++;
 
-            if (lottoarray == numberarray){
+            if (lottoarray[0] == numberarray[0]&&lottoarray[1] == numberarray[1]&&lottoarray[2] == numberarray[2]&&lottoarray[3] == numberarray[3]&&lottoarray[4] == numberarray[4]&&lottoarray[5] == numberarray[5]){
+                out.println(i);
                 break;
                 }
              lotto.clear();
