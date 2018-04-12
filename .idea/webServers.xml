@@ -2,13 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="32347db8-ce4a-4f0c-b62c-d4afbe6bdb38" name="https://github.com/PeterMueckstein/THM_OOP_P1.git" url="https://github.com/PeterMueckstein/THM_OOP_P1.git">
-        <fileTransfer host="git@github.com:PeterMueckstein/THM_OOP_P1.git" port="22" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
+      <webServer id="76352238-4188-4a71-b816-06ff1d713ebb" name="OOP_P1" url="https://github.com/PeterMueckstein/THM_OOP_P1.git">
+        <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
   </component>
