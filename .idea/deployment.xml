@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" serverName="https://github.com/PeterMueckstein/THM_OOP.git" uploadOnCheckin="32347db8-ce4a-4f0c-b62c-d4afbe6bdb38">
+  <component name="PublishConfigData" serverName="https://github.com/PeterMueckstein/THM_OOP_P1.git" uploadOnCheckin="32347db8-ce4a-4f0c-b62c-d4afbe6bdb38">
     <serverData>
-      <paths name="https://github.com/PeterMueckstein/THM_OOP.git">
+      <paths name="https://github.com/PeterMueckstein/THM_OOP_P1.git">
         <serverdata>
           <mappings>
             <mapping local="$PROJECT_DIR$" web="/" />
