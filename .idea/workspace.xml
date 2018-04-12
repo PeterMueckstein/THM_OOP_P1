@@ -1,21 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7e006632-bdc2-4da5-ad95-4c2fed2c67e3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="7e006632-bdc2-4da5-ad95-4c2fed2c67e3" name="Default" comment="Neu">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operator/Operator.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operator/src/BinOp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operator/src/Expr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operator/src/Num.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operator/src/Operation.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operator/src/Operator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operator/src/UnOp.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stakk/Stakk.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stakk/src/EmptyStakk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stakk/src/Stakk.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stakk/src/StakkWithElemnts.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Stakk/src/Stakkable.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -143,6 +130,12 @@
               <item name="THM_OOP_P1" type="b2602c69:ProjectViewProjectNode" />
               <item name="THM_OOP_P1" type="462c0819:PsiDirectoryNode" />
               <item name="Lernen" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="THM_OOP_P1" type="b2602c69:ProjectViewProjectNode" />
+              <item name="THM_OOP_P1" type="462c0819:PsiDirectoryNode" />
+              <item name="Lernen" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -344,7 +337,7 @@
       <workItem from="1523261888500" duration="3894000" />
       <workItem from="1523362519684" duration="3422000" />
       <workItem from="1523432434693" duration="1349000" />
-      <workItem from="1523518768497" duration="863000" />
+      <workItem from="1523518768497" duration="1525000" />
     </task>
     <task id="LOCAL-00001" summary="Second Commit">
       <created>1513112086699</created>
@@ -367,22 +360,35 @@
       <option name="project" value="LOCAL" />
       <updated>1523435268969</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Neu">
+      <created>1523526755509</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1523526755509</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Neu">
+      <created>1523527130788</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1523527130788</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98364000" />
+    <option name="totallyTimeSpent" value="99026000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="6" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" weight="0.32767764" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50208336" side_tool="true" weight="0.32689655" />
       <window_info anchor="right" id="Maven Projects" order="4" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
@@ -415,7 +421,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Second Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Second Commit" />
+    <MESSAGE value="Neu" />
+    <option name="LAST_COMMIT_MESSAGE" value="Neu" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
