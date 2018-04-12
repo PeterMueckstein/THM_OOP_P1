@@ -4,8 +4,6 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Fahrzeug/Fahrzeug.iml" filepath="$PROJECT_DIR$/Fahrzeug/Fahrzeug.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lernen/Lernen.iml" filepath="$PROJECT_DIR$/Lernen/Lernen.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Operator/Operator.iml" filepath="$PROJECT_DIR$/Operator/Operator.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Stakk/Stakk.iml" filepath="$PROJECT_DIR$/Stakk/Stakk.iml" />
       <module fileurl="file://$PROJECT_DIR$/THM_OOP_P1.iml" filepath="$PROJECT_DIR$/THM_OOP_P1.iml" />
       <module fileurl="file://$PROJECT_DIR$/backup/backup.iml" filepath="$PROJECT_DIR$/backup/backup.iml" />
     </modules>
