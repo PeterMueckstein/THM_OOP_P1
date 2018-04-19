@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="PublishConfigData" uploadOnCheckin="32347db8-ce4a-4f0c-b62c-d4afbe6bdb38">
+  <component name="PublishConfigData">
     <serverData>
       <paths name="OOP_P1">
         <serverdata>
@@ -11,6 +11,5 @@
         </serverdata>
       </paths>
     </serverData>
-    <option name="myUploadOnCheckinName" value="https://github.com/PeterMueckstein/THM_OOP_P1.git" />
   </component>
 </project>
